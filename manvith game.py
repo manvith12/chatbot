@@ -45,7 +45,6 @@ print('It has been a long day')
 print('I am too tired to talk. We can chat again later.')
 print('Goodbye', name, 'I liked chatting with you')
 
-print(emoji.emojize(":zipper-mouth_face:")) 
 
     
     
